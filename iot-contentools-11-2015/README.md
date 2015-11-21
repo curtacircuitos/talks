@@ -14,6 +14,6 @@ Esta revolução já começou e hoje podemos ter ideia de como será feita. Para
  
 Nesta rápida conversa, faleremos um pouco sobre como resolver cada um destes problema, hoje. Falaremos de IPv6; Como iremos alimentar estas *coisas* de maneira eficiente, e que protocolos usaremos para internectar nossas *coisas* nesse Novo Mundo.
 
-Após a conversa, os slides estarão disponíveis [aqui](https://github.com/curtacircuitos/talks/iot-contentools-11-2015).
+Após a conversa, os slides estarão disponíveis [aqui](https://github.com/curtacircuitos/talks/tree/master/iot-contentools-11-2015).
 
 **Quem:** Paulo Henrique "*pH*" Silva ([@phsilva](https://twitter.com/phsilva)), é fundador do [Curta Circuitos](https://curtacircuitos.com.br), empresa focada na produção de projetos eletrônicos de forma ágil. Nasceu em São Paulo, mas há 12 anos encontrou Floripa e nunca mais largou. Gosta de tudo que envolva eletrônica, cerveja e telescópios.
