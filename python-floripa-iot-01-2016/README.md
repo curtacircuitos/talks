@@ -11,5 +11,4 @@ Falaremos sobre o [Micropython](https://micropython.org/), implementação Pytho
 
 Focaremos no microcontrolador ESP8266 por ser "o WiFi mais barato do Oeste" e oferecer uma gama incrível de periféricos por tão pouco. Demonstraremos alguns exemplos rápidos e veremos como integrar suas coisas prediletas neste chip fantástico.
 
-**Quem:**Paulo "pH" Henrique Silva, co-fundadoe e CEO do [Curta Circuitos](https://curtacircuitos.com.br), empresa de manufatura ágil de projetos eletrônicos, Pythonista, programador a mais tempo que vale a pena contar, fã de bom hardware, cerveja e telescópios.
-
+**Quem:** Paulo Henrique "*pH*" Silva ([@phsilva](https://twitter.com/phsilva)), é fundador do [Curta Circuitos](https://curtacircuitos.com.br), empresa de manufatura ágil de projetos eletrônicos. Nasceu em São Paulo, mas há 12 anos encontrou Floripa e nunca mais largou. Gosta de tudo que envolva eletrônica, cerveja e telescópios.
