@@ -1,6 +1,8 @@
 Internet das Coisas com Python
 ==
 
+![ESP-12F](/python-floripa-iot-01-2016/esp-12f-curta-circuitos.jpg)
+
 **Quando**: 20/01/2016
 
 **Onde**: [eCentry](http://ecentry.com/br/), durante o [9o Encontro do Python Floripa](https://plus.google.com/events/cbjb5h53nad5o07736m3qqephc4?authkey=CLyL1rSn4pCDeA)
